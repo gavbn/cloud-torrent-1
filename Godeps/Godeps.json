@@ -127,7 +127,7 @@
 		},
 		{
 			"ImportPath": "github.com/andybalholm/cascadia",
-			"Rev": "1c31af6f6c1a7b101ed05aacc7d8a738b43ae86e"
+			"Rev": "65919c611220063037b1db8eb334acaf17a6d8ea"
 		},
 		{
 			"ImportPath": "github.com/boltdb/bolt",
@@ -164,6 +164,10 @@
 			"Rev": "7e36a06e08cc6f803f6f0cc6a1f5f99ef571d1e4"
 		},
 		{
+			"ImportPath": "github.com/jpillora/backoff",
+			"Rev": "a6f64285fd4072883335339357436b78d62c96a4"
+		},
+		{
 			"ImportPath": "github.com/jpillora/go-realtime",
 			"Rev": "c8b52e99fa07b59183859c03304ea01f04e4921f"
 		},
@@ -177,8 +181,8 @@
 		},
 		{
 			"ImportPath": "github.com/jpillora/scraper/scraper",
-			"Comment": "0.1.2",
-			"Rev": "11ad4fe0882f676c256dad38e96373351b9862ba"
+			"Comment": "0.1.2-2-ge773d84",
+			"Rev": "e773d84ba120c0de5dcbdb7ba07eb6c7ce4d3425"
 		},
 		{
 			"ImportPath": "github.com/jpillora/sizestr",
@@ -225,15 +229,15 @@
 		},
 		{
 			"ImportPath": "golang.org/x/net/context",
-			"Rev": "65dfc08770ce66f74becfdff5f8ab01caef4e946"
+			"Rev": "4971afdc2f162e82d185353533d3cf16188a9f4e"
 		},
 		{
 			"ImportPath": "golang.org/x/net/html",
-			"Rev": "65dfc08770ce66f74becfdff5f8ab01caef4e946"
+			"Rev": "4971afdc2f162e82d185353533d3cf16188a9f4e"
 		},
 		{
 			"ImportPath": "golang.org/x/net/html/atom",
-			"Rev": "65dfc08770ce66f74becfdff5f8ab01caef4e946"
+			"Rev": "4971afdc2f162e82d185353533d3cf16188a9f4e"
 		},
 		{
 			"ImportPath": "golang.org/x/sys/unix",
