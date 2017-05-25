@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/gavbn/cloud-torrent-1/engine"
-	"github.com/gavbn/cloud-torrent-1//static"
+	"github.com/gavbn/cloud-torrent-1/static"
 	"github.com/jpillora/go-realtime"
 	"github.com/jpillora/requestlog"
 	"github.com/jpillora/scraper/scraper"
